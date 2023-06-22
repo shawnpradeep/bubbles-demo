@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.418ac62a.css",
-    "main.js": "/static/js/main.41b886c7.js",
-    "static/media/makeathon logo transparent.png": "/static/media/makeathon logo transparent.f071ce6630d746a9fd42.png",
-    "index.html": "/index.html",
-    "main.418ac62a.css.map": "/static/css/main.418ac62a.css.map",
-    "main.41b886c7.js.map": "/static/js/main.41b886c7.js.map"
+    "main.css": "/bubbles-demo/static/css/main.418ac62a.css",
+    "main.js": "/bubbles-demo/static/js/main.bc9c2ca8.js",
+    "static/media/makeathon logo transparent.png": "/bubbles-demo/static/media/makeathon logo transparent.f071ce6630d746a9fd42.png",
+    "index.html": "/bubbles-demo/index.html",
+    "main.418ac62a.css.map": "/bubbles-demo/static/css/main.418ac62a.css.map",
+    "main.bc9c2ca8.js.map": "/bubbles-demo/static/js/main.bc9c2ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.418ac62a.css",
-    "static/js/main.41b886c7.js"
+    "static/js/main.bc9c2ca8.js"
   ]
 }
